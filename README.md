@@ -1,4 +1,4 @@
-# Quiz
+# Alan's Quest
 The goal of this lab is to build a console application which interviews a developer.
 You already have a function `alan.ask`, which accepts a `(string) question` and a `(function) callback`.
 The question will be logged in the console, and then the callback will be saved to `say`.
